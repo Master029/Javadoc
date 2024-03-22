@@ -1,6 +1,10 @@
 package estructura;
 
-
+/**
+ * @author Ángel Subtil
+ * @version 1.0
+ * @since 21-03-2024
+ */
 public class Insecto {
 	/**
 	 * El nombre del insecto.
